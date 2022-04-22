@@ -1,0 +1,23 @@
+* {
+  font-family: "Bitter", serif;
+  
+}
+.gg {
+  font-size: 60px;
+
+  text-align: center;
+  color: black;
+}
+.op {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.sd{
+  font-size: 60px;
+
+  text-align: center;
+  color: black;
+}
